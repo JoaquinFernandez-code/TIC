@@ -7,9 +7,8 @@ body {
   margin: 0;
 }
 
-/* Capitulo 16: imagen de fondo en la cabecera */
 header {
-  background-image: url("fondo.jpg");
+  background-image: url("images/fondo.svg");
   background-repeat: repeat;
   color: white;
   text-align: center;
